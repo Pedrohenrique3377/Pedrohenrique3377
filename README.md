@@ -1,23 +1,31 @@
 # 👋 Olá, eu sou Pedro Henrique!
 
-### 💻 Desenvolvedor Front-end em formação
+### 💻 Desenvolvedor Front-end | HTML • CSS • JavaScript
 
-🎓 Estudante de Desenvolvimento Web  
-🚀 Apaixonado por tecnologia e programação  
-🌐 Criando projetos para evoluir minhas habilidades
+🚀 Desenvolvedor Front-end em formação, focado na criação de interfaces
+modernas, responsivas e funcionais.
+
+🎯 Atualmente desenvolvendo projetos práticos para aprimorar minhas
+habilidades e construir minha experiência na área de tecnologia.
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor Front-end em formação, apaixonado por tecnologia,
-programação e criação de interfaces modernas e responsivas.
+Estou em transição para a área de tecnologia e venho desenvolvendo
+projetos práticos em desenvolvimento web.
 
-Atualmente estou aprimorando meus conhecimentos em desenvolvimento
-web através de projetos práticos.
+Tenho conhecimentos em:
 
-🎯 Meu objetivo é evoluir constantemente como desenvolvedor e
-transformar ideias em projetos funcionais.
+- HTML5
+- CSS3
+- JavaScript
+- Desenvolvimento de interfaces responsivas
+- GitHub
+- VS Code
+
+Meu objetivo é conquistar minha primeira oportunidade profissional
+como desenvolvedor Front-end e continuar evoluindo na área de tecnologia.
 
 ---
 
@@ -34,19 +42,18 @@ transformar ideias em projetos funcionais.
 ## 🔧 Ferramentas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
 </p>
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projetos
 
 ### 🏀 Projeto Nike
 
-Projeto desenvolvido utilizando HTML e CSS, com foco na criação
-de uma interface moderna e responsiva.
+Interface desenvolvida com HTML e CSS, com foco em layout,
+organização visual e responsividade.
 
 🔗 [Ver projeto](https://github.com/Pedrohenrique3377/Projeto-Nike)
 
@@ -54,8 +61,8 @@ de uma interface moderna e responsiva.
 
 ### 🌐 Portfólio
 
-Meu portfólio desenvolvido para apresentar meus projetos,
-habilidades e conhecimentos em desenvolvimento web.
+Projeto criado para apresentar meus conhecimentos, projetos e evolução
+como desenvolvedor Front-end.
 
 🔗 [Ver projeto](https://github.com/Pedrohenrique3377/Portfólio)
 
@@ -63,35 +70,35 @@ habilidades e conhecimentos em desenvolvimento web.
 
 ### 🧮 Calculadora
 
-Calculadora funcional desenvolvida para praticar HTML, CSS
-e JavaScript.
+Calculadora funcional desenvolvida utilizando HTML, CSS e JavaScript,
+com foco na prática de lógica e manipulação da interface.
 
 🔗 [Ver projeto](https://github.com/Pedrohenrique3377/Calculadora)
 
 ---
 
-### 🔗 Agregador de Links
-
-Projeto desenvolvido para reunir links em uma única página,
-praticando criação de interfaces web.
-
-🔗 [Ver projeto](https://github.com/Pedrohenrique3377/Agregador-de-link)
-
----
-
 ### ✅ Lista de Tarefas
 
-Aplicação de lista de tarefas desenvolvida para praticar
-estruturação de páginas e estilização com CSS.
+Aplicação desenvolvida para praticar criação de interfaces e
+organização de elementos utilizando HTML e CSS.
 
 🔗 [Ver projeto](https://github.com/Pedrohenrique3377/Lista-de-tarefas)
 
 ---
 
+### 🔗 Agregador de Links
+
+Página desenvolvida para reunir diferentes links em uma única
+interface.
+
+🔗 [Ver projeto](https://github.com/Pedrohenrique3377/Agregador-de-link)
+
+---
+
 ### 📚 Catálogo
 
-Projeto desenvolvido para praticar criação de interfaces
-e organização de conteúdos utilizando tecnologias web.
+Projeto desenvolvido para praticar criação de interfaces,
+organização de conteúdo e estilização com CSS.
 
 🔗 [Ver projeto](https://github.com/Pedrohenrique3377/Catálogo)
 
@@ -99,15 +106,9 @@ e organização de conteúdos utilizando tecnologias web.
 
 ## 📫 Contato
 
-<p align="left">
-  <a href="mailto:pedroch3377@gmail.com">
-    📧 E-mail
-  </a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/Pedrohenrique3377">
-    💻 GitHub
-  </a>
-</p>
+📧 **E-mail:** pedroch3377@gmail.com
+
+💻 **GitHub:** [Pedrohenrique3377](https://github.com/Pedrohenrique3377)
 
 ---
 
